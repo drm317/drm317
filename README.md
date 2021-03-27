@@ -1,7 +1,7 @@
 ### Hi there I'm Daniel Marlow 👋
 
 <a href="https://www.linkedin.com/in/drm317">
-  <img alt="Rajeev's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Daniel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;
 <a href="https://stackoverflow.com/users/11037324/daniel-marlow">
   <img alt="Daniel's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
