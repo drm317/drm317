@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there I'm Daniel Marlow 👋
 
-<!--
-**drm317/drm317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/drm317">
+  <img alt="Rajeev's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> &nbsp;
+<a href="https://stackoverflow.com/users/11037324/daniel-marlow">
+  <img alt="Daniel's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a> &nbsp;
+<a href="https://www.facebook.com/drm317">
+  <img alt="Daniel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Kafka
+- 💬 Ask me about Java, Golang, C#, Azure, software design or architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin follow @drm317](https://img.shields.io/badge/-callicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drm317/)](https://www.linkedin.com/in/drm317/)
+[![Blog](https://img.shields.io/badge/dev.to%2Fdrm317-blog-brightgreen)](https://dev.to/drm317)
+
+**Languages and Tools:**  
+
+<a href="https://github.com/drm317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drm317&theme=light&count_private=true&layout=compact" alt="Daniel's most used languages" />
+</a>
+<a href="https://github.com/drm317">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=drm317&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Daniel's github stats"/>
+</a>
