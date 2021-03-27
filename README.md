@@ -25,5 +25,5 @@
 **Languages and Tools:**  
 
 <a href="https://github.com/drm317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drm317&theme=gradient&count_private=true&layout=compact" alt="Daniel's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drm317&theme=radical&count_private=true&layout=compact" alt="Daniel's most used languages" />
 </a>
