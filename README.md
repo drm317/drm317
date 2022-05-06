@@ -12,7 +12,6 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Kafka
 - 💬 Ask me about TDD, CI/CD, software design or architecture.
 
 [![Linkedin follow @drm317](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drm317/)](https://www.linkedin.com/in/drm317/)
